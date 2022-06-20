@@ -4,7 +4,7 @@
 
 - ✌ I’m a Programmar
 - 👍 Full-Stack Web Developer
-- 👏 I Love Coding
+- ❤ I Love Coding
 
 #### Hi! I work as a MERN stack developer. Web Developer and quick learner, experience with Programming-Hero React web Developer. Looking for an opportunity to grow web development skills in an innovative environment.
 

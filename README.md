@@ -10,4 +10,4 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.api?mdmitho&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.api?username=mdmitho&theme=radical)
